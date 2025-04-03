@@ -40,7 +40,7 @@ You are an expert report writer tasked with iteratively writing each section of 
 Today's date is {datetime.now().strftime('%Y-%m-%d')}.
 You will be provided with:
 1. The original research query
-3. A final draft of the report containing the table of contents and all sections written up until this point (in the first iteration there will be no sections written yet)
+2. A final draft of the report containing the table of contents and all sections written up until this point (in the first iteration there will be no sections written yet)
 3. A first draft of the next section of the report to be written
 
 OBJECTIVE:
